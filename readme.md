@@ -14,7 +14,7 @@
      ```
 3) Create classes using ```name-prefix``` and ```count``` of classes
      ```sh
-     classArray = multiClassObject.create("Template",10)
+     classArray = multiClassObject.create("name-prefix",10)
      ```
      1) It will return an array of size ```count```
      2) Each array element is a class of type ```TemplateClass```
